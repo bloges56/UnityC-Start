@@ -1,0 +1,19 @@
+ID:				theweddingatcana
+
+Title:				The Wedding at Cana
+
+Author:				Paolo Veronese
+
+Description:			The Wedding Feast at Cana (1563), by Paolo Veronese (1528–1588), is a representational painting that depicts the biblical story of the Marriage at Cana, at which Jesus converts water to 				wine. Executed in the Mannerist style of the late Renaissance, the large-format (6.77m × 9.94m) oil painting comprehends the stylistic ideal of compositional harmony, as practised by 				the artists Leonardo, Raphael, and Michelangelo.
+
+Location:			Louvre, Paris
+
+Image:				PaoloCaliari-LesNocesDeCana
+
+Thumbnail Size:			X: 600	Y: 400
+
+Thumbnail Position:		X:0	Y:70	Z:0
+
+Header Image Size:		X:1600	Y:1100
+
+Header Image Position:		X:0	Y:0	Z:0

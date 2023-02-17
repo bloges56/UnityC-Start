@@ -1,0 +1,22 @@
+ID:				persistenceofmemory
+
+Title:				The Persistence of Memory
+
+Author:				Salvador Dali
+
+Description:			The Persistence of Memory is a 1931 painting by artist Salvador Dalí and one of the most recognizable works of Surrealism. First shown at the Julien Levy Gallery in 1932, 
+				since 1934 the painting has been in the collection of the Museum of Modern Art (MoMA) in New York City, which received it from an anonymous donor. 
+				It is widely recognized and frequently referenced in popular culture, and sometimes referred to by more descriptive titles, such as "Melting Clocks", 
+				"The Soft Watches" or "The Melting Watches".
+
+Location:			Museum of Modern Art, New York City
+
+Image:				SalvadorDali-ThePersistenceOfMemory
+
+Thumbnail Size:			X: 420	Y: 300
+
+Thumbnail Position:		X:0	Y:10	Z:0
+
+Header Image Size:		X:1400	Y:1100
+
+Header Image Position:		X:0	Y:30	Z:0

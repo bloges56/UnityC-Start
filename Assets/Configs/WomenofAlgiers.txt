@@ -1,0 +1,19 @@
+ID:				womenofalgiers
+
+Title:				Women of Algiers
+
+Author:				Eugène Delacroix
+
+Description:			Women of Algiers in their Apartment is the title of two oil on canvas paintings by the French Romantic painter Eugène Delacroix. The two works both depict the same scene of four women 				together in an enclosed room. Despite the similar setting, the two paintings evoke completely different moods through the depiction of the women.
+
+Location:			Louvre, Paris
+
+Image:				EugeneDelacroix-FemmesDAlgerDansLeurAppartement
+
+Thumbnail Size:			X: 600	Y: 400
+
+Thumbnail Position:		X:-85	Y:0	Z:0
+
+Header Image Size:		X:1500	Y:1000
+
+Header Image Position:		X:0	Y:0	Z:0

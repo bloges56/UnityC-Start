@@ -1,0 +1,21 @@
+ID:				portraitofbaldassarecastiglione
+
+Title:				Portrait of Baldassare Castiglione
+
+Author:				Raphael
+
+Description:			Portrait of Baldassare Castiglione is a c. 1514–1515 oil painting attributed to the Italian High Renaissance painter Raphael. 
+				Considered one of the great portraits of the Renaissance, it has an enduring influence. It depicts Raphael's friend, the diplomat 
+				and humanist Baldassare Castiglione, who is considered a quintessential example of the High Renaissance gentleman.
+
+Location:			Louvre, Paris
+
+Image:				RaffaelloSanti-PortraitDeBaldassareCastiglione
+
+Thumbnail Size:			X: 400	Y: 400
+
+Thumbnail Position:		X:0	Y:0	Z:0
+
+Header Image Size:		X:1300	Y:1500
+
+Header Image Position:		X:0	Y:0	Z:0

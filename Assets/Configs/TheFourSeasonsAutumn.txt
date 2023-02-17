@@ -1,0 +1,20 @@
+ID:				thefourseasonsautumn
+
+Title:				The Four Seasons: Autumn
+
+Author:				Giuseppe Arcimboldo
+
+Description:			The Seasons or The Four Seasons is a set of four paintings produced in 1563, 1572 and 1573 by Giuseppe Arcimboldo. He offered the set to Maximilian II, Holy Roman Emperor in 1569, 				accompanying The Four Elements. Each shows a profile portrait made up of fruit, vegetables and plants relating to the relevant season. 
+				The set was accompanied by a poem by Giovanni Battista Fonteo (1546-1580) explaining their allegorical meaning.
+
+Location:			Louvre, Paris
+
+Image:				GiuseppeArcimboldo-LAautomne
+
+Thumbnail Size:			X: 400	Y: 400
+
+Thumbnail Position:		X:0	Y:0	Z:0
+
+Header Image Size:		X:1300	Y:1300
+
+Header Image Position:		X:0	Y:90	Z:0

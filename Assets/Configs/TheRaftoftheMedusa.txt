@@ -1,0 +1,21 @@
+ID:				theraftofthemedusa
+
+Title:				The Raft of the Medusa
+
+Author:				Théodore Géricault
+
+Description:			The Raft of the Medusa is an oil painting of 1818–19 by the French Romantic painter and lithographer Théodore Géricault (1791–1824). 
+				Completed when the artist was 27, the work has become an icon of French Romanticism. At 491 by 716 cm, it is an over-life-size painting that depicts a moment 
+				from the aftermath of the wreck of the French naval frigate Méduse, which ran aground off the coast of today's Mauritania on 2 July 1816.
+
+Location:			Louvre, Paris
+
+Image:				TheodoreGericault-LeRadeauDeLaMeduse
+
+Thumbnail Size:			X: 500	Y: 400
+
+Thumbnail Position:		X:0	Y:0	Z:0
+
+Header Image Size:		X:1600	Y:1100
+
+Header Image Position:		X:0	Y:0	Z:0

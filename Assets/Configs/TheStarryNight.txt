@@ -1,0 +1,19 @@
+ID:				thestarrynight
+
+Title:				The Starry Night
+
+Author:				Vincent van Gogh
+
+Description:			The Starry Night is an oil on canvas painting by Dutch Post-Impressionist painter Vincent van Gogh. Painted in June 1889, it depicts the view from the east-facing window of his asylum 				room at Saint-Rémy-de-Provence, just before sunrise, with the addition of an imaginary village. It has been in the permanent collection of the Museum of Modern Art in New York City 				since 1941, acquired through the Lillie P. Bliss Bequest. Widely regarded as Van Gogh's magnum opus, The Starry Night is one of the most recognized paintings in Western art.
+
+Location:			Louvre, Paris
+
+Image:				VanGogh-StarryNight
+
+Thumbnail Size:			X: 600	Y: 400
+
+Thumbnail Position:		X:60	Y:60	Z:0
+
+Header Image Size:		X:1300	Y:1200
+
+Header Image Position:		X:-50	Y:0	Z:0
